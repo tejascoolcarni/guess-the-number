@@ -7,3 +7,7 @@ Some unique things that I have put in are-
 3) Once you finish the game, the programme asks you if you want to try again or exit. Used while loop to add this feature.
 4) The programme also tells how many attempts are left, I've used simple arithmetic operators for this.
 5) I have tried my best to handle errors using try and except block, while loop and if-else conditional statements. I have tried to include as many cases as possible. 
+
+Please give it a try and let me know what you think!
+
+If there are any doubts, suggestions or bugs you can always ping me on tejascoolcarni@gmail.com !
